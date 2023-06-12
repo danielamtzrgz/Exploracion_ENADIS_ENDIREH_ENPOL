@@ -1,4 +1,4 @@
-# Segunda fase INTERSECTA 
+# Segunda fase, exploración de datos
 
   # Paquetes 
 
